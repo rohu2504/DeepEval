@@ -9,6 +9,7 @@ from langchain_core.tools import tool
 from dotenv import load_dotenv
 
 load_dotenv()
+#
 
 
 embed_model="sentence-transformers/all-MiniLM-L6-v2"
